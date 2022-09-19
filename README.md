@@ -1,4 +1,4 @@
-# NlW Movies
+# NLW Movies
 
 ![preview](./.github/preview.png)
 
