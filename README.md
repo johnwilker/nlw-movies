@@ -1,10 +1,10 @@
 # NLW Movies
 
-![preview](./.github/preview.png)
-
 🔗 [Clique aqui para acessar](https://johnwilker.github.io/nlw-movies)
 
->Projeto construído do evento Next Level Week da Rocketseat.
+![preview](./.github/preview.png)
+
+>Projeto construído no evento Next Level Week da Rocketseat.
 
 ## 🛠️ Tecnologias
 

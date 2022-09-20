@@ -110,7 +110,7 @@ main section {
 }
 
 main section:nth-child(1) {
-    animation-delay: .1;
+    animation-delay: .1s;
 }
 
 main section:nth-child(2) {
