@@ -13,4 +13,6 @@
 - Git e Github
 
 ## 💛 Contato
-johnwilker2@gmail.com
+- > johnwilker2@gmail.com
+- > +55 (37) 99811-4832
+- > https://www.linkedin.com/in/johnwilkers/
