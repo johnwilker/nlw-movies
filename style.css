@@ -87,12 +87,17 @@ section ul li:hover {
     transition: transform .3s;
 }
 
-.my-movies img{
-    width: 100px;
-    border-radius: 8px;
-    border: 1px solid #555555;
+.my-social-section {
+    margin: auto;
+    width: 320px;
+    text-align: center;
 }
 
+.my-social {
+    justify-content: center;
+}
+
+.my-movies img, 
 .my-series img {
     width: 100px;
     border-radius: 8px;
@@ -143,3 +148,17 @@ main section:nth-child(3) {
     }
 }
 
+
+/* Swiper */
+main {
+    max-width: 360px;
+}
+
+section {
+    overflow: hidden;
+}
+
+section ul {
+    gap: 32px;
+    flex-wrap: nowrap;
+}
