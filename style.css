@@ -151,7 +151,7 @@ main section:nth-child(3) {
 
 /* Swiper */
 main {
-    max-width: 360px;
+    max-width: 410px;
 }
 
 section {
@@ -159,6 +159,8 @@ section {
 }
 
 section ul {
-    gap: 40px;
+    padding-left: 8px;
+    gap: 16px;
     flex-wrap: nowrap;
 }
+
